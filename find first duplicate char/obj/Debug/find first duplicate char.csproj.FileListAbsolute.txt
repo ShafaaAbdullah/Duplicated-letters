@@ -1,0 +1,8 @@
+C:\Users\shafa\Documents\Visual Studio 2008\Projects\find first duplicate char\find first duplicate char\bin\Debug\find first duplicate char.exe
+C:\Users\shafa\Documents\Visual Studio 2008\Projects\find first duplicate char\find first duplicate char\bin\Debug\find first duplicate char.pdb
+C:\Users\shafa\Documents\Visual Studio 2008\Projects\find first duplicate char\find first duplicate char\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\shafa\Documents\Visual Studio 2008\Projects\find first duplicate char\find first duplicate char\obj\Debug\find_first_duplicate_char.Form1.resources
+C:\Users\shafa\Documents\Visual Studio 2008\Projects\find first duplicate char\find first duplicate char\obj\Debug\find_first_duplicate_char.Properties.Resources.resources
+C:\Users\shafa\Documents\Visual Studio 2008\Projects\find first duplicate char\find first duplicate char\obj\Debug\find first duplicate char.csproj.GenerateResource.Cache
+C:\Users\shafa\Documents\Visual Studio 2008\Projects\find first duplicate char\find first duplicate char\obj\Debug\find first duplicate char.exe
+C:\Users\shafa\Documents\Visual Studio 2008\Projects\find first duplicate char\find first duplicate char\obj\Debug\find first duplicate char.pdb
